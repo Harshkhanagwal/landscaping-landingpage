@@ -11,8 +11,8 @@ function Contact() {
             quick estimate.
           </p>
           <div className="contact-cta">
-            <a className="btn btn-primary" href="tel:+1234567890">Call Now</a>
-            <a className="btn contact-whatsapp" href="https://wa.me/1234567890" target="_blank" rel="noreferrer">
+            <a className="btn btn-primary" href="tel:+919999133305">Call Now</a>
+            <a className="btn contact-whatsapp" href="https://wa.me/919999133305" target="_blank" rel="noreferrer">
               WhatsApp Chat
             </a>
           </div>

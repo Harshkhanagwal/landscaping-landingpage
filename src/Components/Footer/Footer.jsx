@@ -21,7 +21,7 @@ function Footer() {
 
         <div>
           <h4>Contact</h4>
-          <p>+1 234 567 890</p>
+          <p>+91 99991 33305</p>
           <p>hello@landscaping.com</p>
           <div className="socials" aria-label="Social links">
             <a href="#" aria-label="Facebook">Fb</a>
